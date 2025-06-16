@@ -30,3 +30,6 @@ Master’s student at **PAICLab (Private Artificial Intelligence and Cryptograph
 **Coding Platform**  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=thrudgelmir)](https://solved.ac/thrudgelmir)
+
+## Contact
+thrudgelmir@cau.ac.kr
