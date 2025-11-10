@@ -24,6 +24,9 @@ Master’s student at **PAICLab (Private Artificial Intelligence and Cryptograph
 - *Improved Radix-based Approximate Homomorphic Encryption for Large Integers via Lightweight Bootstrapped Digit Carry* (eprint)  
   [https://eprint.iacr.org/2025/1740](https://eprint.iacr.org/2025/1740)
   
+- *OvA-LP: A Simple and Efficient Framework for Federated Learning on Non-IID Data* (eprint)  
+  [https://arxiv.org/abs/2511.05028](https://arxiv.org/abs/2511.05028)
+  
 ## Coding & Research Profiles
 
 **Languages**  
