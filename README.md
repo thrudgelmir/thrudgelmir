@@ -18,7 +18,8 @@ Master’s student at **PAICLab (Private Artificial Intelligence and Cryptograph
 - *Powerformer: Efficient and High-Accuracy Privacy-Preserving Language Model with Homomorphic Encryption* (ACL 2025 main)  
   [https://eprint.iacr.org/2024/1429](https://eprint.iacr.org/2024/1429)
 
-- *"Privacy-Preserving Real-Time Emotion Recognition using Homomorphic Encryption* (IMWUT 2025 Issue4)  
+- *Real-Time Encrypted Emotion Recognition Using Homomorphic Encryption* (IMWUT 2025 Issue4)  
+  [https://eprint.iacr.org/2025/2058](https://eprint.iacr.org/2025/2058)
   
 - *Improved Radix-based Approximate Homomorphic Encryption for Large Integers via Lightweight Bootstrapped Digit Carry* (eprint)  
   [https://eprint.iacr.org/2025/1740](https://eprint.iacr.org/2025/1740)
