@@ -27,18 +27,8 @@ Master’s student at **PAICLab (Private Artificial Intelligence and Cryptograph
 - *OvA-LP: A Simple and Efficient Framework for Federated Learning on Non-IID Data* (eprint)  
   [https://arxiv.org/abs/2511.05028](https://arxiv.org/abs/2511.05028)
   
-## Coding & Research Profiles
-
-**Languages**  
-- Python, C++
-
-**Research Interests**  
-- Artificial Intelligence (AI), Machine Learning (ML)  
-- Privacy-Preserving Machine Learning (PPML), Privacy-Preserving Language Models (PPLM)
-
-**Coding Platform**  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=thrudgelmir)](https://solved.ac/thrudgelmir)
+## Research Interests
+- Homomorphic Encryption (HE), Privacy-Preserving Machine Learning (PPML), Federated Learning (FL)
 
 ## Contact
 thrudgelmir@cau.ac.kr
