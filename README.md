@@ -21,7 +21,7 @@ Master’s student at **PAICLab (Private Artificial Intelligence and Cryptograph
 - *Real-Time Encrypted Emotion Recognition Using Homomorphic Encryption* (IMWUT 2025 Issue4)  
   [https://eprint.iacr.org/2025/2058](https://eprint.iacr.org/2025/2058)
   
-- *Improved Radix-based Approximate Homomorphic Encryption for Large Integers via Lightweight Bootstrapped Digit Carry* (eprint)  
+- *Improved Radix-based Approximate Homomorphic Encryption for Large Integers via Lightweight Bootstrapped Digit Carry* (Eurocrypt 2026)  
   [https://eprint.iacr.org/2025/1740](https://eprint.iacr.org/2025/1740)
   
 - *OvA-LP: A Simple and Efficient Framework for Federated Learning on Non-IID Data* (eprint)  
