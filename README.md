@@ -23,12 +23,13 @@ Master’s student at **PAICLab (Private Artificial Intelligence and Cryptograph
   
 - *Improved Radix-based Approximate Homomorphic Encryption for Large Integers via Lightweight Bootstrapped Digit Carry* (Eurocrypt 2026)  
   [https://eprint.iacr.org/2025/1740](https://eprint.iacr.org/2025/1740)
-  
-- *OvA-LP: A Simple and Efficient Framework for Federated Learning on Non-IID Data* (eprint)  
-  [https://arxiv.org/abs/2511.05028](https://arxiv.org/abs/2511.05028)
+
+- *Low-Complexity Private Decision Tree Evaluation over Homomorphic Encryption* (ACM CCS 2026) 
   
 ## Research Interests
-- Homomorphic Encryption (HE), Privacy-Preserving Machine Learning (PPML), Federated Learning (FL)
+- Homomorphic Encryption (HE)
+- Privacy-Preserving Machine Learning (PPML)
 
 ## Contact
 thrudgelmir@cau.ac.kr
+ 
