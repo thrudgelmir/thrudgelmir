@@ -1,4 +1,4 @@
-# 👋 About Me
+# About Me
 
 Master’s student at **PAICLab (Private Artificial Intelligence and Cryptography Lab)** at Chung-Ang University.  
 [https://sites.google.com/view/cau-paiclab/home](https://sites.google.com/view/cau-paiclab/home)
