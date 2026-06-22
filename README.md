@@ -24,7 +24,7 @@ Master’s student at **PAICLab (Private Artificial Intelligence and Cryptograph
 - *Improved Radix-based Approximate Homomorphic Encryption for Large Integers via Lightweight Bootstrapped Digit Carry* (Eurocrypt 2026)  
   [https://eprint.iacr.org/2025/1740](https://eprint.iacr.org/2025/1740)
 
-- *Low-Complexity Private Decision Tree Evaluation over Homomorphic Encryption* (ACM CCS 2026)  
+- *Low-Complexity Private Decision Tree Evaluation over Homomorphic Encryption* (ACM CCS 2026)      
   [https://eprint.iacr.org/2026/1263](https://eprint.iacr.org/2026/1263).
   
 ## Research Interests
