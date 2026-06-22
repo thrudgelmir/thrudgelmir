@@ -25,6 +25,7 @@ Master’s student at **PAICLab (Private Artificial Intelligence and Cryptograph
   [https://eprint.iacr.org/2025/1740](https://eprint.iacr.org/2025/1740)
 
 - *Low-Complexity Private Decision Tree Evaluation over Homomorphic Encryption* (ACM CCS 2026) 
+  [https://eprint.iacr.org/2026/1263](https://eprint.iacr.org/2026/1263).
   
 ## Research Interests
 - Homomorphic Encryption (HE)
